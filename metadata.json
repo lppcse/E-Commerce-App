@@ -1,0 +1,6 @@
+{
+  "name": "Aura E-Commerce Studio",
+  "description": "Premium e-commerce application with dynamic product catalogs, a cart engine, Google SSO login, and an Express REST API backend simulating Spring Boot services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
